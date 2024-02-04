@@ -21,12 +21,21 @@ I am a Business Analyst with experience as a full-stack developer, Android devel
 
 ### Professional Experience
 - **Deloitte USI:** Solution Delivery Analyst/Associate _(June 2021 – July 2023)_
-  - Promoted swiftly for outstanding performance and managed data processes for clients like Apple, META, Johnson & Johnson, and Pfizer.
+  - Recognized with three Spot Awards and promotion to Solution Delivery Associate within 2 years.
+  - Oversaw electronic data from clients like Apple, META, Johnson & Johnson, and Pfizer by managing end-to-end processes, including Data Culling, Processing, Hosting, and Productions.
+  - Expertly employed industry-leading tools such as Relativity, Ecapture, and NUIX for efficient data handling and analysis.
+  - Collaborated with multiple teams to support the eDiscovery and digital forensics process, specializing in the EDSC department.
+
 - **BAKUP:** Full Stack Developer & Research Development Executive _(August 2019 - August 2020)_
   - Developed a multilingual website featured at Forbes 30 Under 30.
 
-### Certifications
-- Data Analytics, Cloud Computing, Machine Learning, and AWS certifications from LinkedIn Learning and NPTEL.
+### CERTIFICATIONS 
+- Data Analytics: 1 Foundations		Cloud Computing: The Cloud and DevOps
+- ML and AI Foundations: Clustering and Association		AWS: Storage and Data Management
+- AWS for DevOps: High Availability and Elasticity		Excel for Mac Essential Training (Microsoft 365)
+- DevOps Foundations: Infrastructure as Code		Introduction to Machine learning.
+- Data Analytics with Python		Cybersecurity Foundations
+
 
 ### Notable Projects
 - **ScrapSrm-Academia:** A Python-based website for data scraping, analysis, and visualization.
