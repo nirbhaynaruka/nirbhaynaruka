@@ -5,7 +5,7 @@
 📧 Contact: nirbhaynaruka@gmail.com  
 📞 Phone: (805)-215-9237  
 🔗 LinkedIn: [nirbhay13](https://linkedin.com/in/nirbhay13)
-🔗 Personal: [nirbhay](https://nirbhaynaruka.github.io/mysite/)
+🔗 Personal: [nirbhay](https://nirbhaynaruka.com)
 ### About Me
 I am a Business Analyst with experience as a full-stack developer, Android developer, and freelancer. During my undergraduate studies in Computer Science and Engineering, my work was recognized in Forbes 30 Under 30 in Detroit 2019. After graduating, I joined Deloitte in 2021 as a Solution Delivery Analyst and was soon promoted to Solution Delivery Associate. I recently enrolled in a master’s program in Business Analytics, through which I aim to complement my technical background with business acumen and to take on leadership roles where I can apply my skills in technology and analytics to solve complex business challenges.
 
