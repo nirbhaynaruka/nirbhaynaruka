@@ -1,46 +1,78 @@
-# Nirbhay Singh Naruka
+# Nirbhay Singh Naruka  
 
-## Welcome to My GitHub Profile!
+📧 **Email:** nirbhaynaruka@gmail.com  
+📞 **Phone:** +1 (805)-215-9237  
+🔗 **LinkedIn:** [nirbhay13](https://linkedin.com/in/nirbhay13)  
+🔗 **Personal Website:** [nirbhaynaruka.com](https://nirbhaynaruka.com)  
 
-📧 Contact: nirbhaynaruka@gmail.com  
-📞 Phone: (805)-215-9237  
-🔗 LinkedIn: [nirbhay13](https://linkedin.com/in/nirbhay13)
-🔗 Personal: [nirbhay](https://nirbhaynaruka.com)
-### About Me
-I am a Business Analyst with experience as a full-stack developer, Android developer, and freelancer. During my undergraduate studies in Computer Science and Engineering, my work was recognized in Forbes 30 Under 30 in Detroit 2019. After graduating, I joined Deloitte in 2021 as a Solution Delivery Analyst and was soon promoted to Solution Delivery Associate. I recently enrolled in a master’s program in Business Analytics, through which I aim to complement my technical background with business acumen and to take on leadership roles where I can apply my skills in technology and analytics to solve complex business challenges.
+---
 
-### Technical Toolbox
-- **Data Analytics & Machine Learning:** Python, Jupyter Notebook, SQL, Data Visualization, Power BI, Tableau.
-- **Data Management Tools:** Google Cloud Platform, AWS, GitHub, VSCode
-- **Full Stack Development:** ReactJs, VueJs, Bootstrap, HTML, CSS, JavaScript, PHP, NodeJS, WordPress
-- **Mobile Development:** Flutter, Dart, Firebase, AdMob
+### About Me  
+I am the **Co-Founder & AI/ML Engineer** at [Aimethods.co](https://aimethods.co), where I lead the development of **RouteAI** — an intelligent routing platform that connects users to the best AI model for every task, across GPT-4, Claude, Gemini, DeepSeek, and more.  
 
-### Education
-- **M.Sc. in Business Analytics**, California Polytechnic State University, CA, USA _(Expected June 2024)_
-- **B.Tech. in Computer Science and Engineering**, Sri Ramaswamy Memorial University, Chennai, India _(July 2021)_
+My career spans roles at **NPR, Claritas, Salesforce, and Deloitte**, delivering impactful AI, analytics, and product solutions at scale. I hold a **Master’s in Business Analytics** from California Polytechnic State University, San Luis Obispo, and my work has been recognized in *Forbes 30 Under 30 – Detroit 2019*.  
 
-### Professional Experience
-- **Deloitte USI:** Solution Delivery Analyst/Associate _(June 2021 – July 2023)_
-  - Recognized with three Spot Awards and promotion to Solution Delivery Associate within 2 years.
-  - Oversaw electronic data from clients like Apple, META, Johnson & Johnson, and Pfizer by managing end-to-end processes, including Data Culling, Processing, Hosting, and Productions.
-  - Expertly employed industry-leading tools such as Relativity, Ecapture, and NUIX for efficient data handling and analysis.
-  - Collaborated with multiple teams to support the eDiscovery and digital forensics process, specializing in the EDSC department.
+I thrive at the intersection of **technical execution and business strategy**, building intelligent, scalable systems and leading innovative product development from concept to launch.  
 
-- **BAKUP:** Full Stack Developer & Research Development Executive _(August 2019 - August 2020)_
-  - Developed a multilingual website featured at Forbes 30 Under 30.
+---
 
-### CERTIFICATIONS 
-- Data Analytics: 1 Foundations		Cloud Computing: The Cloud and DevOps
-- ML and AI Foundations: Clustering and Association		AWS: Storage and Data Management
-- AWS for DevOps: High Availability and Elasticity		Excel for Mac Essential Training (Microsoft 365)
-- DevOps Foundations: Infrastructure as Code		Introduction to Machine learning.
-- Data Analytics with Python		Cybersecurity Foundations
+### Technical Toolbox  
+- **AI & Machine Learning:** TensorFlow, PyTorch, OpenAI APIs, LangChain, LLM Integration, Prompt Engineering  
+- **Data Analytics & Visualization:** Python, SQL, Jupyter Notebook, Power BI, Tableau, BigQuery, Looker  
+- **Data Infrastructure & Cloud:** Google Cloud Platform, AWS, Firebase, GitHub, VS Code  
+- **Full Stack Development:** React.js, Next.js, Vue.js, Bootstrap, HTML, CSS, JavaScript, PHP, Node.js, WordPress  
+- **Mobile Development:** Flutter, Dart, Firebase, AdMob  
 
+---
 
-### Notable Projects
-- **ScrapSrm-Academia:** A Python-based website for data scraping, analysis, and visualization.
-- **SRM DOCKER:** Automated cross-platform application using Dart and Flutter.
-- **Bakup Website:** Developed with HTML, CSS, JS, NODEJS, and multiple APIs.
+### Education  
+- **M.Sc. in Business Analytics**, California Polytechnic State University, CA, USA *(June 2024)*  
+- **B.Tech. in Computer Science and Engineering**, Sri Ramaswamy Memorial University, Chennai, India *(July 2021)*  
 
-I'm always looking to grow, collaborate, and build amazing things, so feel free to reach out if you want to create something together or just say hi!
+---
 
+### Professional Experience  
+
+**Co-Founder & AI/ML Engineer – [Aimethods.co](https://aimethods.co)/ RouteAI** *(Jan 2025 – Present)*  
+- Leading the vision, architecture, and development of **RouteAI**, an AI routing and optimization platform with BYOK support, usage analytics, and built-in prompt optimization.  
+- Designing multi-model ranking algorithms to route prompts in real time across GPT-4, Claude, Gemini, and DeepSeek.  
+- Building a browser extension to make RouteAI available anywhere users work, across any platform or text area.  
+
+**NPR – Insight Analyst** *(Dec 2024 – Jun 2025)*  
+- Built and maintained performance dashboards in Looker, powered by optimized BigQuery pipelines.  
+- Reduced data storage costs by 70% through query optimization across high-volume datasets.  
+
+**Claritas – Business Analyst** *(Apr 2024 – Jun 2024)*  
+- Analyzed and integrated behavioral and demographic data using Python, AWS S3, and advanced clustering (K-means).  
+- Created AI personas to improve marketing personalization and targeting.  
+
+**Salesforce – Data Analytics Consultant** *(Jan 2024 – Mar 2024)*  
+- Developed TensorFlow neural network models to interpret complex datasets.  
+- Built a React + Flask interface for real-time predictive analytics.  
+
+**Deloitte USI – Solution Delivery Analyst / Associate** *(Jun 2021 – Jul 2023)*  
+- Promoted within 2 years and recognized with three Spot Awards.  
+- Managed eDiscovery and digital forensics processes for clients including Apple, META, Johnson & Johnson, and Pfizer.  
+
+**BAKUP – Full Stack Developer & R&D Executive** *(Aug 2019 – Aug 2020)*  
+- Developed a multilingual website showcased at *Forbes 30 Under 30*.  
+
+---
+
+### Certifications  
+- **Data Analytics:** Data Analytics with Python, Data Analytics Foundations  
+- **Cloud & DevOps:** AWS Storage and Data Management, AWS for DevOps, DevOps Foundations, Cloud Computing Essentials  
+- **AI & Machine Learning:** ML & AI Foundations, Introduction to Machine Learning  
+- **Other:** Cybersecurity Foundations, Excel for Mac Essential Training  
+
+---
+
+### Notable Projects  
+- **RouteAI:** AI model routing platform with multi-model ranking, prompt optimization, and BYOK support.  
+- **ScrapSrm-Academia:** Python-based platform for data scraping, analysis, and visualization.  
+- **SRM Docker:** Automated cross-platform app using Dart and Flutter.  
+- **Bakup Website:** Developed using HTML, CSS, JS, Node.js, and multiple APIs.  
+
+---
+
+💡 *I’m always looking to collaborate and build innovative products. Feel free to connect if you’d like to work together or share ideas!*  
